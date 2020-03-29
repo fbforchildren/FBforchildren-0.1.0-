@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Cos'è FBforchildren?
+In tutta Italia e non solo, l'associazione nasce per aiutare tutti i bambini, dalla loro nascita alla loro adolescenza, che non hanno possibilità di avere il necessario per la loro crescita. Da circa 6 anni a questa parte FBforchildren ha creato e messo a disposizione uno strumento semplice come un gruppo facebook (vedi link:https://www.facebook.com/groups/1511357489095363/), di oltre 15mila utenti, dove chiunque disponga di vestiti, giocattoli, accessori scolastici ed altro utile alla crescita di questi bambini riesce a mettersi in contatto con chi ne ha bisogno per offrirglieli in dono.
 
-You can use the [editor on GitHub](https://github.com/fbforchildren/FBforchildrenAPP/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<strong>FBforchildren vuole usare più tecnologia per aiutare più persone</strong>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
