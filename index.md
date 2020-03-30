@@ -41,7 +41,14 @@ Abbiamo quindi detto che nello scroll di questa tendina vi saranno i post degli 
 - Città in cui si vuole donare
 - Recapiti social in cui ricontattarlo (ovviamente quelli che l'utente che intende donare ha specificato durante la sua registrazione)
 
-Nella stessa interfaccia in qui si trova la tendina con tutti gli oggetti da donare vi sarà disponibile un campo cerca, utile a inserire 
+Nella stessa interfaccia in qui si trova la tendina con tutti gli oggetti da donare vi sarà disponibile un campo cerca, utile a ricercare in modo più dettagliato l'oggetto di cui si ha bisogno. Il campo cerca deve richiedere le seguenti informazioni per effettuare una ricerca più dettagliata:
+- Oggetto (cosa si sta cercando)
+- Se si vuole cercare solo in città, in tutta la provincia o la regione.
+
+Nella stessa interfaccia, oltre al campo cerca, vi sarà la possibilità di switchare per scegliere se nella tendina devono essere presenti solo oggetti disponibili in città, in tutta la provincia o in tutta la regione.
+
+### Pubblicazione oggetti da donare
+
 
 
 
