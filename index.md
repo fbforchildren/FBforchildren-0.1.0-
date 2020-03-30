@@ -11,22 +11,37 @@ Si vuole creare un'app nativa con Apache Cordova (vedi link: https://cordova.apa
 # Costruiamo insieme l'app FBforchildren!
 Abbiamo suddiviso il lavoro in 4 categorie:
 - Utenti
-- Sessione dell'utente che effettuato l'accesso
+- Sessione dell'utente che ha effettuato l'accesso
 - Pubblicazione oggetti da donare
 - Interfaccia amminastrore e moderatori
 
 ### Utenti
-Gli utenti si dividono tra utente semplice, moderatore e amministratore. La registrazione è uguale per tutti, gli eventuali ruoli di moderatore o amministratore verranno affidati in un secondo momento dagli amministratori esistenti (per questo si legga la parte Interfaccia amministratore e moderatori).
+Gli utenti si dividono tra utente semplice, moderatore e amministratore. La registrazione è uguale per tutti, gli eventuali ruoli di moderatore o amministratore verranno affidati in un secondo momento dagli amministratori esistenti (per questo si legga la categoria Interfaccia amministratore e moderatori).
 Nella fase di registrazione i campi che devono essere inseriti sono:
 - Nome 
 - Cognome
-- Città di residenza
+- Città di residenza (con provincia e CAP)
 - Password per accedere
 - Social network o numero di telefono in cui si vuole essere ricontattati per donare gli oggetti. (Obbligatorio almeno uno)
 - Il database genererà in automatico un id utente, questo sarà importante per gestire le sessioni (importante verificare che sia univoco cioè che non ne esistano altri utenti registrati con lo stesso id utente)
 
 !!!ATTENZIONE dilemma da risolvere insieme (?)
-La registrazione deve essere confermata (ad esempio con l'inserimento di un codice che si riceve per SMS, o il click di una mail) ma abbiamo deciso di discutere insieme a voi collaboratori di questo punto.
+La registrazione deve essere confermata (ad esempio con l'inserimento di un codice che si riceve per SMS, o il click di una mail che si riceve all'indirizzo specificato), ma abbiamo deciso di discutere insieme a voi collaboratori di questo punto.
+
+Una volta effettuata la registrazione l'utente potrà accedere all'app inserendo i campi: 
+- Email, se si è deciso di confermare la registrazione con questo, o numero di telefono se si è deciso di farlo con il codice inviato con SMS
+- Password
+
+### Sessione dell'utente che ha effettuato l'accesso
+Una volta effettuato l'accesso l'utente vedrà in una tendina (tipo quella facebook in qui con uno scroll si vedono i post che i nostri amici pubblicano) gli oggetti che gli utenti intendono donare nella città che lui ha indicato come città di residenza durante la registrazione (campo che si deve avere la possibilità di cambiare in qualsiasi momento) ed eventualmente se lo desidera, cliccando su uno specifico tasto, potrà vedere anche quelli di tutta la provincia e/o della regione della città indicata in fase di registrazione o eventualmente modificata in un secondo momento.
+
+Abbiamo quindi detto che nello scroll di questa tendina vi saranno i post degli oggetti che si intendono donare, questi post devono contenere le seguenti informazioni dell'utente che vuole donare e degli oggetti che si intendono donare:
+- Nome e cognome 
+- Foto e descrizione degli oggetti (per questo si vede la categoria Publicazione oggetti da donare)
+- Città in cui si vuole donare
+- Recapiti social in cui ricontattarlo (ovviamente quelli che l'utente che intende donare ha specificato durante la sua registrazione)
+
+Nella stessa interfaccia in qui si trova la tendina con tutti gli oggetti da donare vi sarà disponibile un campo cerca, utile a inserire 
 
 
 
