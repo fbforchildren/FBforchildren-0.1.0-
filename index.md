@@ -3,6 +3,8 @@ In tutta Italia e non solo, l'associazione nasce per aiutare tutti i bambini, da
 
 <strong>FBforchildren vuole usare più tecnologia per aiutare più persone</strong>
 
+Il gruppo Facebook, nonostante il numero elevato e in costantemente crescita di utenti, è uno strumento che presenta dei limiti. FBforchildren vuole creare una piattaforma propria all'interno della quale continuerà a fare quello che sta facendo, ma con la possibilità di utilizzare più tecnologie, che in una piattaforma propria possono essere ideate e inserite (geolocalizzazione, ricerca degli oggetti più precisa ecc..), con lo scopo di raggiungere più persone che hanno bisogno di questi oggetti pronti per essere donati.
+
 
 ### Markdown
 
