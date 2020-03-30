@@ -15,7 +15,18 @@ Abbiamo suddiviso il lavoro in 4 categorie:
 - Pubblicazione oggetti da donare
 - Interfaccia amminastrore e moderatori
 
+### Utenti
+Gli utenti si dividono tra utente semplice, moderatore e amministratore. La registrazione è uguale per tutti, gli eventuali ruoli di moderatore o amministratore verranno affidati in un secondo momento dagli amministratori esistenti (per questo si legga la parte Interfaccia amministratore e moderatori).
+Nella fase di registrazione i campi che devono essere inseriti sono:
+- Nome 
+- Cognome
+- Città di residenza
+- Password per accedere
+- Social network o numero di telefono in cui si vuole essere ricontattati per donare gli oggetti. (Obbligatorio almeno uno)
+- Il database genererà in automatico un id utente, questo sarà importante per gestire le sessioni (importante verificare che sia univoco cioè che non ne esistano altri utenti registrati con lo stesso id utente)
 
+!!!ATTENZIONE dilemma da risolvere insieme (?)
+La registrazione deve essere confermata (ad esempio con l'inserimento di un codice che si riceve per SMS, o il click di una mail) ma abbiamo deciso di discutere insieme a voi collaboratori di questo punto.
 
 
 
