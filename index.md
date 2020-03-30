@@ -68,35 +68,3 @@ L'interfaccia amministratore deve permettere le seguenti funzioni:
 L'amministratore accede all'app nello stesso modo in cui lo fanno tutti gli altri, con la sola differenza che il sistema deve riconoscere se questo è un amministratore e nel caso lo fosse oltre a tutte le interfacce realizzate per il singolo utente deve avere la possibilità di cliccare un tasto per accedere all'interfacccia da amministratore.
 
 Lo stesso varrà per i moderatori, anche questi accederanno normalmente all'app, ma il sistema riconoscerà se questi sono moderatori e nel caso in cui lo fossero anche loro avranno la possibilità di cliccare un tasto per accedere all'interfaccia amministratore. L'interfaccia amministratore di un moderatore è esattamente uguale a quella di un amministratore, l'unica differenza sta nel fatto che nell'interffacia del moderatore non vi è la possibilità di promuovere o rimuovere un utente come moderatore.
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fbforchildren/FBforchildrenAPP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
