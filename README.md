@@ -2,7 +2,7 @@
 In tutta Italia e non solo, l'associazione nasce per aiutare tutti i bambini, dalla loro nascita alla loro adolescenza, che non hanno possibilità di avere il necessario per la loro crescita. Da circa 6 anni a questa parte FBforchildren ha creato e messo a disposizione uno strumento semplice come un gruppo facebook (vedi link:https://www.facebook.com/groups/1511357489095363/), di oltre 15mila utenti, dove chiunque disponga di vestiti, giocattoli, accessori scolastici ed altro utile alla crescita di questi bambini riesce a mettersi in contatto con chi ne ha bisogno per offrirglieli in dono.
 
 ### FBforchildren vuole usare più tecnologia per aiutare più persone
-Il gruppo Facebook, nonostante il numero elevato e in costante crescita di utenti, è uno strumento che presenta dei limiti. FBforchildren vuole creare una piattaforma propria all'interno della quale continuerà a fare quello che sta facendo, ma con la possibilità di utilizzare più tecnologie, che in una piattaforma propria possono essere ideate e inserite (geolocalizzazione, ricerca degli oggetti più precisa ecc..), con lo scopo di raggiungere più persone che hanno bisogno di questi oggetti pronti per essere donati.
+Il gruppo Facebook, nonostante il numero elevato e in costante crescita di utenti, è uno strumento che presenta dei limiti. FBforchildren vuole creare una piattaforma propria all'interno della quale continuerà a fare quello che sta facendo, ma con la possibilità di utilizzare più tecnologie, che in una piattaforma propria possono essere ideate e inserite (geolocalizzazione, ricerca degli oggetti più precisa ecc..) con lo scopo di raggiungere più persone che hanno bisogno di questi oggetti pronti per essere donati.
 
 
 ### Che app costruieremo e in che modalità
