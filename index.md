@@ -7,7 +7,14 @@ Il gruppo Facebook, nonostante il numero elevato e in costante crescita di utent
 
 
 ### Che app costruieremo e in che modalità
-Si vuole creare un'app nativa con Apache Cordova (vedi link: https://cordova.apache.org/) con i linguaggi di programmazione web, tra cui php o python (lato server), javascript (lato client), html e css per l'interfaccia grafica. In questo modo, con un solo progetto avremo creato un'app che giri su Android, iOS, Windows e anche il sito internet. E' importante dire ai programmatori che <strong>per utilizzare Apache Cordova con lo scopo di creare un'app nativa per dispositvi mobile si deve creare come qualsiasi sito internet applicativo ricordando le richieste al server vanno fatte con chiamate ajax (si veda il link: https://www.html.it/pag/44428/scambio-dei-dati-online-e-connettivita/)</strong>
+Si vuole creare un'app nativa con Apache Cordova (vedi link: https://cordova.apache.org/) con i linguaggi di programmazione web, tra cui php o python (lato server), javascript (lato client), html e css per l'interfaccia grafica. In questo modo, con un solo progetto avremo creato un'app che giri su Android, iOS, Windows e anche il sito internet. E' importante dire ai programmatori che <strong>per utilizzare Apache Cordova con lo scopo di creare un'app nativa per dispositvi mobile si deve creare come qualsiasi sito internet applicativo ricordando le richieste al server vanno fatte con chiamate ajax (si veda il link: https://www.html.it/pag/44428/scambio-dei-dati-online-e-connettivita/)</strong>. 
+
+### Cosa occorre costruire e come
+Abbiamo suddiviso il lavoro in 4 categorie:
+- Utenti
+- Sessione dell'utente che effettuato l'accesso
+- Pubblicazione oggetti da donare
+- Interfaccia amminastrore e moderatori
 
 ```markdown
 Syntax highlighted code block
