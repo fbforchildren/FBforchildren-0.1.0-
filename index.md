@@ -43,12 +43,23 @@ Abbiamo quindi detto che nello scroll di questa tendina vi saranno i post degli 
 
 Nella stessa interfaccia in qui si trova la tendina con tutti gli oggetti da donare vi sarà disponibile un campo cerca, utile a ricercare in modo più dettagliato l'oggetto di cui si ha bisogno. Il campo cerca deve richiedere le seguenti informazioni per effettuare una ricerca più dettagliata:
 - Oggetto (cosa si sta cercando)
+- categoria oggetto (esempio vestiti, giocattoli ecc..)
 - Se si vuole cercare solo in città, in tutta la provincia o la regione.
 
-Nella stessa interfaccia, oltre al campo cerca, vi sarà la possibilità di switchare per scegliere se nella tendina devono essere presenti solo oggetti disponibili in città, in tutta la provincia o in tutta la regione.
+Nella stessa interfaccia, oltre al campo cerca, vi sarà la possibilità di switchare per scegliere se nella tendina devono essere presenti solo oggetti disponibili in città, in tutta la provincia o in tutta la regione e inoltre un tasto che una volta cliccato permetterà di pubblicare oggetti che si vogliono donare(si veda la categoria pubblicazione oggetti da donare).
 
 ### Pubblicazione oggetti da donare
+Quando l'utente clicca sul tasto che gli permette di accedere a questa categoria gli verranno chieste le seguenti informazioni:
+- Categoria oggetto (esempio vestiti, giocattoli ecc..)
+- Oggetto che si vuole donare (un titolo ad esempio)
+- Descrizione oggetti 
+- Foto degli oggetti (non obbligatorio, ma utile, per questi motivi dobbiamo dare la possiblità di scattare una foto in questa fase)
+- Città in cui si vuole donare (che per default, se non viene inserita in questo campo, prenderà quella indicata in fase di registrazione dall'utente)
 
+Una volta inserite tutte le informazioni utili e inviate il post verrà subito pubblicato.
+
+### Interfaccia amminastrore e moderatori
+L'interfaccia 
 
 
 
